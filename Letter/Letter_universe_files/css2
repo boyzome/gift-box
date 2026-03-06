@@ -1,0 +1,16 @@
+/* fallback */
+@font-face {
+  font-family: 'Playwrite GB J Guides';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/playwritegbjguides/v2/CSRv4yJOn-mMWCgLPl16K6UKAvM5yY1Bdhm4KRApcByvnA.woff2) format('woff2');
+}
+/* fallback */
+@font-face {
+  font-family: 'Playwrite GB J Guides';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/playwritegbjguides/v2/CSRh4yJOn-mMWCgLPl16K6UKAvM5yY1BdhmILhouUh4.woff2) format('woff2');
+}
